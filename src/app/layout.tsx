@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Criado com a Lasy",
-  description: "Projeto criado com Lasy AI",
+  title: "Porronca BT",
+  description: "Sistema de Torneios de Beach Tennis",
 };
 
 export default function RootLayout({
